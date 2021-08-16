@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://alejandroverita.github.io/randomFox',
+    baseUrl: 'https://alejandroverita.github.io/aguacates-dom-api',
   },
 }
